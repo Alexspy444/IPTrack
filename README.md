@@ -6,6 +6,6 @@
 
 </div>
 
-### Try it at [@Alex999_O_bot](https://t.me/Alex999_O_bot)
+
 
 [![Run on Repl.it](https://repl.it/badge/github/Alexspy444/IPTrack)](https://repl.it/github/https://repl.it/github/Alexspy444/IPTrack)
